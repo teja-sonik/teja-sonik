@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hey - I'm Teja!
+
+*Updates to be coming soon!*
+
 
 <!--
 **teja-sonik/teja-sonik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
