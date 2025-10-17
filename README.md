@@ -9,7 +9,7 @@ I'm a security engineering professional focused on building detection tools, aut
 ### 🧠 Skillset
 - Incident Response
 - Detection Engineering
-- SOAR
+- SOAR (development & integration)
 - Vulnerability & Risk Management
 
 ### 🛠️ Featured Projects
