@@ -6,11 +6,16 @@ I'm a security engineering professional focused on building detection tools, aut
 
 *Updates to be coming soon!*
 
+### 🧠 Skillset
+- Incident Response
+- Detection Engineering
+- SOAR
+- Vulnerability & Risk Management
+
 ### 🛠️ Featured Projects
 [MagLev Mathematical Analysis](https://github.com/teja-sonik/maglev-transport-physics)
 
 ### 🤝 Let's Connect
-
 - 💼 LinkedIn: https://www.linkedin.com/in/sritejasonikar/
 - 📧 Email: sriteja@sonikar.com
 
