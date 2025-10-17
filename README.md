@@ -6,11 +6,7 @@ I'm a security engineering professional focused on building detection tools, aut
 
 *Updates to be coming soon!*
 
-### 🧠 Skillset
-- Incident Response
-- Detection Engineering
-- SOAR (development & integration)
-- Vulnerability & Risk Management
+
 
 ### 🛠️ Featured Projects
 [MagLev Mathematical Analysis](https://github.com/teja-sonik/maglev-transport-physics)
@@ -21,6 +17,21 @@ I'm a security engineering professional focused on building detection tools, aut
 
 
 <!--
+
+
+
+
+
+### 🧠 Skillset
+- Incident Response
+- Detection Engineering
+- SOAR (development & integration)
+- Vulnerability & Risk Management
+
+
+
+
+
 **teja-sonik/teja-sonik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
